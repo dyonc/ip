@@ -15,7 +15,7 @@ const generatedAt = useState(() => new Date().toISOString())
 </script>
 
 <template>
-  <div id="container">
+  <div id="container">  
 
     <Head>
       <Title>IP - Dyonic</title>
